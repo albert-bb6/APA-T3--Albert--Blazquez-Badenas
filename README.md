@@ -18,7 +18,8 @@ El objetivo de esta práctica es implementar en Python, mediante Programación O
 ## Ejecución de los tests unitarios
 Se han incluido pruebas unitarias utilizando el módulo `doctest`. A continuación, se muestra la captura de pantalla de la ejecución en modo verboso (`-v`), certificando que todos los tests han sido superados correctamente:
 
-![Resultado de los tests](test_results.png)
+![Resultado de los tests](resultado1.png)
+![](resultado2.png)
 
 ---
 
